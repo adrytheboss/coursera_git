@@ -1,2 +1,1 @@
-# coursera_git
-Coursera repo to pass the test of the third module
+I am editing the README file. Adding some more details about the project description.
